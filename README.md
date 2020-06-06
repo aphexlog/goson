@@ -1,0 +1,1 @@
+# GOSON is a simple JSON parser written in go
